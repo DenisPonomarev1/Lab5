@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "330643196820",
+    "project_id": "product-c3220",
+    "storage_bucket": "product-c3220.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330643196820:android:2d27a38b06ab20b0a05d81",
+        "android_client_info": {
+          "package_name": "com.example.lab5"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBhlC3zJ5_6lkDP0IlhzWXt5q-gfl_O5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
